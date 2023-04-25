@@ -1,0 +1,91 @@
+/* Set the background color to black */
+body {
+  background-color: #121212;
+}
+
+/* Set the font family and color for text */
+body, p, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Helvetica Neue', sans-serif;
+  color: #fff;
+}
+
+/* Style the Streamlit header */
+.stAppHeader {
+  background-color: #1DB954;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 24px;
+}
+
+/* Style the Streamlit sidebar */
+.stSidebar {
+  background-color: #121212;
+  color: #fff;
+}
+
+/* Style the Streamlit main content area */
+.stAppMain {
+  background-color: #121212;
+  color: #fff;
+  padding: 20px;
+}
+
+/* Style the Streamlit buttons */
+.stButton {
+  background-color: #1DB954;
+  color: #fff;
+  border-radius: 30px;
+  padding: 8px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Style the Streamlit select boxes */
+.stSelectbox {
+  background-color: #1DB954;
+  color: #fff;
+  border-radius: 30px;
+  padding: 8px 20px;
+  font-size: 16px;
+  border: none;
+}
+
+/* Style the Streamlit slider */
+.stSlider {
+  background-color: #1DB954;
+}
+
+/* Style the Streamlit text input boxes */
+.stTextInput {
+  background-color: #1DB954;
+  color: #fff;
+  border-radius: 30px;
+  padding: 8px 20px;
+  font-size: 16px;
+  border: none;
+}
+
+/* Style the Streamlit table */
+.stTable {
+  background-color: #fff;
+  color: #121212;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+}
+
+/* Style the Streamlit table headers */
+.stTable th {
+  background-color: #1DB954;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px;
+  text-align: left;
+}
+
+/* Style the Streamlit table cells */
+.stTable td {
+  padding: 10px;
+  border: 1px solid #121212;
+}
